@@ -1,0 +1,32 @@
+{
+  "Travel": [
+    {
+      "TouristName": "Pritam",
+      "Location": "kolkata",
+      "Vacation": "winter",
+      "Trip": "goa",
+      "id": 2
+    },
+    {
+      "TouristName": "Sarthak",
+      "Location": "Burdwan",
+      "Vacation": "summer",
+      "Trip": "himachal",
+      "id": 3
+    },
+    {
+      "TouristName": "mainak",
+      "Location": "hooghly",
+      "Vacation": "winter",
+      "Trip": "goa",
+      "id": 4
+    },
+    {
+      "TouristName": "saikat",
+      "Location": "kolkata",
+      "Vacation": "summer",
+      "Trip": "himachal",
+      "id": 5
+    }
+  ]
+}
